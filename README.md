@@ -1,12 +1,18 @@
+#### Uragirimono
+> **Back-End Engineer**
+
 <div align=center> 
 
-### GitHub Stats
 ***
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kairos7578&show_icons=true&theme=radical)
+### ⚡ Tech
+<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
+<img src="https://img.shields.io/badge/Springboot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white">
+<img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=Gradle&logoColor=white">
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white">
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white">
+
 ***
-
-
-### Contact
+### 📢 Contact
 ![](https://dcbadge.vercel.app/api/shield/283625199897673729)
 
 </div>
