@@ -1,4 +1,4 @@
-#### Uragirimono
+####  백형서 / Uragirimono
 > **Back-End Engineer**
 
 <div align=center> 
